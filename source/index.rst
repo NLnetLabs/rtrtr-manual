@@ -1,7 +1,7 @@
 .. _doc_rtrtr:
 
-RTRTR – *main* branch
-=====================
+RTRTR – 0.1.2 ‘Ten Four’
+========================
 
 .. only:: html
 
