@@ -1,5 +1,5 @@
-RTRTR – *main* branch
-=====================
+RTRTR 0.2.0-RC1
+===============
 
 .. only:: html
 
