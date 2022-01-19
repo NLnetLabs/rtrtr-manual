@@ -35,7 +35,7 @@ author = 'NLnet Labs'
 # The short X.Y version
 version = '0.2.0'
 # The full version, including alpha/beta/rc tags
-release = '0.2.0-rc1'
+release = '0.2.0'
 
 # -- Version Warning Banner configuration ------------------------------------
 if versionbanner:
